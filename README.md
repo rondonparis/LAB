@@ -16,6 +16,7 @@
 <img src="https://user-images.githubusercontent.com/69338643/102800168-d5a04b80-43f6-11eb-8f69-f06d7fadafb2.png"  >
 
 > #### 3. 위험 보행자 인식
+<img src="https://user-images.githubusercontent.com/69338643/102800833-c5d53700-43f7-11eb-83f8-42574d07c5da.png"  >
 
 ### 4. 구현 이미지
 <img src="https://user-images.githubusercontent.com/69338643/102797879-a1775b80-43f3-11eb-8b12-fbb3f1a3655a.png" width="100" >
