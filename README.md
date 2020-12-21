@@ -10,12 +10,15 @@
 
 ### 3. 주요 기능
 > #### 1. 정체구간 인식 
+<img src="https://user-images.githubusercontent.com/69338643/102799448-e603f680-43f5-11eb-8145-9dde241b010a.png"  >
 
 > #### 2. 손상차선 구간 인식
+<img src="https://user-images.githubusercontent.com/69338643/102800168-d5a04b80-43f6-11eb-8f69-f06d7fadafb2.png"  >
+
 > #### 3. 위험 보행자 인식
 
 ### 4. 구현 이미지
-![1](https://user-images.githubusercontent.com/69338643/102797879-a1775b80-43f3-11eb-8b12-fbb3f1a3655a.png)
+<img src="https://user-images.githubusercontent.com/69338643/102797879-a1775b80-43f3-11eb-8b12-fbb3f1a3655a.png" width="100" >
 
 ### 5. 기대 효과
 - 교통 이용의 안전성과 효율성
