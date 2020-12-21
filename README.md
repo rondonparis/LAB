@@ -10,11 +10,12 @@
 
 ### 3. 주요 기능
 > #### 1. 정체구간 인식 
+
 > #### 2. 손상차선 구간 인식
 > #### 3. 위험 보행자 인식
 
 ### 4. 구현 이미지
-<img src="./SeoulNightMarket/image/foodtruck.JPG" width="24%"> <img src="./SeoulNightMarket/image/review.JPG" width="24%"> <img src="./SeoulNightMarket/image/order.JPG" width="24%"> <img src="./SeoulNightMarket/image/order2.JPG" width="24%">
+<img src="C:\Users\HOME\Desktop\1.PNG" width="24%">
 
 ### 5. 기대 효과
 - 교통 이용의 안전성과 효율성
