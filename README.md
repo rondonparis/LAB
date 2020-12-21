@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/69338643/102799448-e603f680-43f5-11eb-8145-9dde241b010a.png"  >
 
 > #### 2. 손상차선 구간 인식
-<img src="https://user-images.githubusercontent.com/69338643/102805717-fd93ad00-43fe-11eb-9434-6dde79c0fa75.png"  >
+<img src="https://user-images.githubusercontent.com/69338643/102805717-fd93ad00-43fe-11eb-9434-6dde79c0fa75.png" width="615"  >
 
 > #### 3. 위험 보행자 인식
 <img src="https://user-images.githubusercontent.com/69338643/102800833-c5d53700-43f7-11eb-83f8-42574d07c5da.png"  >
