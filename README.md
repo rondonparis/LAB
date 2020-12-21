@@ -20,7 +20,7 @@
 
 ### 4. 구현 이미지
 
-<img src="https://user-images.githubusercontent.com/69338643/102802441-f918c580-43f9-11eb-8789-3257fdc37d8a.png"  width="600" >
+<img src="https://user-images.githubusercontent.com/69338643/102802441-f918c580-43f9-11eb-8789-3257fdc37d8a.png"  width="800" >
 
 ### 5. 기대 효과
 - 교통 이용의 안전성과 효율성
