@@ -15,7 +15,7 @@
 > #### 3. 위험 보행자 인식
 
 ### 4. 구현 이미지
-<img src="C:\Users\HOME\Desktop\1.PNG" width="24%">
+![1](https://user-images.githubusercontent.com/69338643/102797879-a1775b80-43f3-11eb-8b12-fbb3f1a3655a.png)
 
 ### 5. 기대 효과
 - 교통 이용의 안전성과 효율성
